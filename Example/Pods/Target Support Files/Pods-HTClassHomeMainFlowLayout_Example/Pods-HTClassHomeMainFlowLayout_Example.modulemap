@@ -1,0 +1,6 @@
+framework module Pods_HTClassHomeMainFlowLayout_Example {
+  umbrella header "Pods-HTClassHomeMainFlowLayout_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

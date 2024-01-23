@@ -1,0 +1,16 @@
+PODS:
+  - HTClassHomeMainFlowLayout (0.1.0)
+
+DEPENDENCIES:
+  - HTClassHomeMainFlowLayout (from `../`)
+
+EXTERNAL SOURCES:
+  HTClassHomeMainFlowLayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HTClassHomeMainFlowLayout: e28a51ec60f8d5978f7a0a2a540b9c72bfc42676
+
+PODFILE CHECKSUM: 14d9bb729d4cb2acb1a6a9627ded558c6b638a1b
+
+COCOAPODS: 1.14.3

@@ -1,0 +1,6 @@
+framework module HTClassHomeMainFlowLayout {
+  umbrella header "HTClassHomeMainFlowLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}
