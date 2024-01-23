@@ -19,8 +19,6 @@
 		97776A215FD156E4C725FF32CD03043E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		C64268A1AEA22BA2873DE31E8CBDFF18 /* HTClassHomeMainFlowLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = 5BE8F301B70C9EB1D98AC85CE8E79584 /* HTClassHomeMainFlowLayout.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EB0D82500EC7AF0F2E48B10AB922E044 /* HTClassHomeMainFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C475E405E9318F4FA00BB1BC9ED8A76 /* HTClassHomeMainFlowLayout.m */; };
-		F167C5202B5EE12900A3C452 /* Test.h in Headers */ = {isa = PBXBuildFile; fileRef = F167C51E2B5EE12900A3C452 /* Test.h */; };
-		F167C5212B5EE12900A3C452 /* Test.m in Sources */ = {isa = PBXBuildFile; fileRef = F167C51F2B5EE12900A3C452 /* Test.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -76,8 +74,6 @@
 		C64AF3BA94FB5575256019AC82741666 /* Pods-HTClassHomeMainFlowLayout_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HTClassHomeMainFlowLayout_Tests-Info.plist"; sourceTree = "<group>"; };
 		D9BEDD12CFA23EAA15B1DBE12AD2CF01 /* Pods-HTClassHomeMainFlowLayout_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-HTClassHomeMainFlowLayout_Tests.modulemap"; sourceTree = "<group>"; };
 		E05276F24F831255C69F9569BD5D3B33 /* Pods-HTClassHomeMainFlowLayout_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HTClassHomeMainFlowLayout_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		F167C51E2B5EE12900A3C452 /* Test.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test.h; sourceTree = "<group>"; };
-		F167C51F2B5EE12900A3C452 /* Test.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,8 +159,6 @@
 			children = (
 				5BE8F301B70C9EB1D98AC85CE8E79584 /* HTClassHomeMainFlowLayout.h */,
 				8C475E405E9318F4FA00BB1BC9ED8A76 /* HTClassHomeMainFlowLayout.m */,
-				F167C51E2B5EE12900A3C452 /* Test.h */,
-				F167C51F2B5EE12900A3C452 /* Test.m */,
 				3810B06C3BF3F6BCB601CCF0EC9E8710 /* ReplaceMe.m */,
 				EAB5EFFC73DB64AF3DE71D06343C323B /* Pod */,
 				AC9CC22DF79C1581BBC610EA0D9269C0 /* Support Files */,
@@ -252,7 +246,6 @@
 			files = (
 				C64268A1AEA22BA2873DE31E8CBDFF18 /* HTClassHomeMainFlowLayout.h in Headers */,
 				5F5A460AEC7991BCC538755F45ACC59B /* HTClassHomeMainFlowLayout-umbrella.h in Headers */,
-				F167C5202B5EE12900A3C452 /* Test.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -382,7 +375,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				EB0D82500EC7AF0F2E48B10AB922E044 /* HTClassHomeMainFlowLayout.m in Sources */,
-				F167C5212B5EE12900A3C452 /* Test.m in Sources */,
 				590704A99AA791B871AA5D6FDE83770D /* HTClassHomeMainFlowLayout-dummy.m in Sources */,
 				0B7E12F77B41537BC0AAEF1267ED3B5C /* ReplaceMe.m in Sources */,
 			);
